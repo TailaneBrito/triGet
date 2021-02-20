@@ -1,0 +1,14 @@
+{
+  "name": "tribget",
+  "version": "1.0.0",
+  "description": "This is an API to get the informations about zone and eleitor profile from Tribunal of Sao Paulo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tailane Brito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
